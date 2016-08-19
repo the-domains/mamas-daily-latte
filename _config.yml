@@ -1,3 +1,4 @@
+layout_spectrum: 0.2964140132535249
 typography_spectrum: 0.29205876030027866
 color:
   brandStrength: 0.8011482395231724
@@ -10,7 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.2964140132535249
 name: Mama's Daily Latte
-title: Mama's Daily Latte
-description: the life of an inspired mum
